@@ -1,5 +1,11 @@
-## Hi there 👋
-
+<div id="badges" align="center">
+  <a href ="https://web.telegram.org/a/#-1001949831735">
+  <img src="https://img.shields.io/badge/VK-blue?-style=for-tthe-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href ="https://mail.google.com/mail/u/0/#inbox">
+  <img src="https://img.shields.io/badge/EMAIL-red?-style=for-tthe-Gmail&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
 <!--
 **StudUse/StudUse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
