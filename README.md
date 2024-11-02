@@ -16,7 +16,7 @@
 </div>
 Here are some ideas to get you started:
 
-###man-technologist: Обо мне :
+###👨‍💻: Обо мне :
 
 - 🎱: Факт обо мне
   
