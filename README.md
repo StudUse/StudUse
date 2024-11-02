@@ -24,4 +24,8 @@ Here are some ideas to get you started:
   
 - 🥯: Бэйгл
 
+###🛠️: Языки и инструменты :
+    <img src="https://github.com/devicons/devicon/tree/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/tree/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/tree/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 -->
